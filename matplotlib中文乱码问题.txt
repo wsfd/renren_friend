@@ -1,0 +1,2 @@
+修改matplotlibrc文件
+进入Python安装目录下的Lib\site-packages\matplotlib\mpl-data目录，打开matplotlibrc文件，删除font.family和font.sans-serif两行前的#，并在font.sans-serif后添加微软雅黑字体（Microsoft YaHei）
